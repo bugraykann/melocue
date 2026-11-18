@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701669048230",
+    "project_id": "melocue-7dbca",
+    "storage_bucket": "melocue-7dbca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701669048230:android:07dcf866887e23e5649967",
+        "android_client_info": {
+          "package_name": "com.bugi.melocue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxR_BbaXkmEsXwn_5ZbxxTuocqIBtzQx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701669048230:android:2092f68e54cd18a8649967",
+        "android_client_info": {
+          "package_name": "com.example.melocue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxR_BbaXkmEsXwn_5ZbxxTuocqIBtzQx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

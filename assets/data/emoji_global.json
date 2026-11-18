@@ -1,0 +1,112 @@
+[
+  {
+    "stage": 1,
+    "questions": [
+      {
+        "emojis": "🧊 🧊 👶",
+        "answer": "Ice Ice Baby",
+        "artist": "Vanilla Ice"
+      },
+      {
+        "emojis": "👸 🐝 👑",
+        "answer": "Queen Bee",
+        "artist": "Beyonce"
+      },
+      {
+        "emojis": "🌟 👦 🏎️",
+        "answer": "Starboy",
+        "artist": "The Weeknd"
+      },
+      {
+        "emojis": "🚗 💨 🛣️",
+        "answer": "Fast Car",
+        "artist": "Tracy Chapman"
+      },
+      {
+        "emojis": "👁️ 🐅 🥊",
+        "answer": "Eye of the Tiger",
+        "artist": "Survivor"
+      },
+      {
+        "emojis": "☔ 👨 💧",
+        "answer": "Rain Man",
+        "artist": "Eminem"
+      },
+      {
+        "emojis": "🌊 👁️ 👁️",
+        "answer": "Ocean Eyes",
+        "artist": "Billie Eilish"
+      },
+      {
+        "emojis": "🎆 🔥 🎇",
+        "answer": "Firework",
+        "artist": "Katy Perry"
+      },
+      {
+        "emojis": "💍 💍 💍",
+        "answer": "7 Rings",
+        "artist": "Ariana Grande"
+      },
+      {
+        "emojis": "🃏 🎭 😐",
+        "answer": "Poker Face",
+        "artist": "Lady Gaga"
+      }
+    ]
+  },
+  {
+    "stage": 2,
+    "questions": [
+      {
+        "emojis": "🚀 👨 🌌",
+        "answer": "Rocket Man",
+        "artist": "Elton John"
+      },
+      {
+        "emojis": "🟡 🛥️ 🌊",
+        "answer": "Yellow Submarine",
+        "artist": "The Beatles"
+      },
+      {
+        "emojis": "🕷️ 🕸️ 👨",
+        "answer": "Spiderman",
+        "artist": "Michael Buble"
+      },
+      {
+        "emojis": "🏃‍♀️ ⛰️ ☁️",
+        "answer": "Running Up That Hill",
+        "artist": "Kate Bush"
+      },
+      {
+        "emojis": "💃 🪩 👑",
+        "answer": "Dancing Queen",
+        "artist": "ABBA"
+      },
+      {
+        "emojis": "🏨 🦅 🎸",
+        "answer": "Hotel California",
+        "artist": "Eagles"
+      },
+      {
+        "emojis": "🧟‍♂️ 🕺 🌕",
+        "answer": "Thriller",
+        "artist": "Michael Jackson"
+      },
+      {
+        "emojis": "🦁 😴 🌃",
+        "answer": "The Lion Sleeps Tonight",
+        "artist": "The Tokens"
+      },
+      {
+        "emojis": "👶 1️⃣ ➕ 🕒",
+        "answer": "Baby One More Time",
+        "artist": "Britney Spears"
+      },
+      {
+        "emojis": "🦇 👿 🎸",
+        "answer": "Bat Out Of Hell",
+        "artist": "Meat Loaf"
+      }
+    ]
+  }
+]

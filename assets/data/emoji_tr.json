@@ -1,0 +1,552 @@
+[
+  {
+    "stage": 1,
+    "questions": [
+      {
+        "emojis": "🅰️ 🤫 🙋‍♂️",
+        "answer": "Baş Harfi Ben",
+        "artist": "Kenan Doğulu"
+      },
+      {
+        "emojis": "🍅 🌶️ 🍆",
+        "answer": "Domates Biber Patlıcan",
+        "artist": "Barış Manço"
+      },
+      {
+        "emojis": "📦 ➡️ 🙋‍♂️",
+        "answer": "Yolla",
+        "artist": "Tarkan"
+      },
+      {
+        "emojis": "🏖️ 🌅 🤔",
+        "answer": "Bodrum",
+        "artist": "MFÖ"
+      },
+      {
+        "emojis": "🚗 💨 🚔",
+        "answer": "Bas Gaza",
+        "artist": "İsmail YK"
+      },
+      {
+        "emojis": "❤️ 🫂 🦁",
+        "answer": "Aşkın Olayım",
+        "artist": "Simge"
+      },
+      {
+        "emojis": "🍷 🌶️ 💃",
+        "answer": "Karabiberim",
+        "artist": "Serdar Ortaç"
+      },
+      {
+        "emojis": "🌹 🛣️ 🚶‍♂️",
+        "answer": "Gül Döktüm Yollarına",
+        "artist": "Tarkan"
+      },
+      {
+        "emojis": "📵 🤷‍♂️ 💔",
+        "answer": "Aramazsan Arama",
+        "artist": "Gökhan Özen"
+      },
+      {
+        "emojis": "🦁 🚶‍♂️ ❤️‍🩹",
+        "answer": "Aslan Gibi",
+        "artist": "Tarkan"
+      }
+    ]
+  },
+  {
+    "stage": 2,
+    "questions": [
+      {
+        "emojis": "👅 🥤 😋",
+        "answer": "Dudu",
+        "artist": "Tarkan"
+      },
+      {
+        "emojis": "💋 😘 ♾️",
+        "answer": "Öp",
+        "artist": "Tarkan"
+      },
+      {
+        "emojis": "👁️ 💧 🗣️",
+        "answer": "Gözyaşlarım Anlatır",
+        "artist": "Şahsenem"
+      },
+      {
+        "emojis": "👨‍⚕️ 💊 ❓",
+        "answer": "Doktor",
+        "artist": "Kenan Doğulu"
+      },
+      {
+        "emojis": "🕊️ ✉️ ❤️",
+        "answer": "Kuşlar",
+        "artist": "Yaşar"
+      },
+      {
+        "emojis": "⏳ 🚫 ✍️",
+        "answer": "Tükeneceğiz",
+        "artist": "Sezen Aksu"
+      },
+      {
+        "emojis": "🌷 ⏳ 🥀",
+        "answer": "Lale Devri",
+        "artist": "Sibel Can"
+      },
+      {
+        "emojis": "🔙 🗣️ 🚶‍♂️",
+        "answer": "Dön Desem",
+        "artist": "Özcan Deniz"
+      },
+      {
+        "emojis": "⛵ 🌬️ 🌊",
+        "answer": "Gemi",
+        "artist": "Teoman"
+      },
+      {
+        "emojis": "👸 👑 🙅‍♀️",
+        "answer": "Prenses",
+        "artist": "Hadise"
+      }
+    ]
+  },
+  {
+    "stage": 3,
+    "questions": [
+      {
+        "emojis": "👻 ❤️ 🏚️",
+        "answer": "Hayalet Sevgilim",
+        "artist": "İrem"
+      },
+      {
+        "emojis": "🔥 🚒 🧯",
+        "answer": "Yangın Var",
+        "artist": "Ayşegül Aldinç"
+      },
+      {
+        "emojis": "🔫 🎯 ❤️",
+        "answer": "Vur Yüreğim",
+        "artist": "Sertab Erener"
+      },
+      {
+        "emojis": "🚪 🚶 🔙",
+        "answer": "Dön Ne Olur",
+        "artist": "Ebru Gündeş"
+      },
+      {
+        "emojis": "🌧️ ☔ 💧",
+        "answer": "Yağmur",
+        "artist": "Bertuğ Cemil"
+      },
+      {
+        "emojis": "📝 ✉️ 🕊️",
+        "answer": "Mektup",
+        "artist": "Haluk Levent"
+      },
+      {
+        "emojis": "⛄ ❄️ 🥕",
+        "answer": "Kardan Adam",
+        "artist": "Gülşen"
+      },
+      {
+        "emojis": "🕰️ ⏳ ⌛",
+        "answer": "Zaman",
+        "artist": "Kıraç"
+      },
+      {
+        "emojis": "🚶 🛤️ 🎒",
+        "answer": "Yollarda Bulurum Seni",
+        "artist": "Haluk Levent"
+      },
+      {
+        "emojis": "👶 🍼 🧸",
+        "answer": "Bebek",
+        "artist": "İzel"
+      }
+    ]
+  },
+  {
+    "stage": 4,
+    "questions": [
+      {
+        "emojis": "💔 🍷 🎸",
+        "answer": "Paramparça",
+        "artist": "Teoman"
+      },
+      {
+        "emojis": "🐝 🍯 🌼",
+        "answer": "Arı",
+        "artist": "Barış Manço"
+      },
+      {
+        "emojis": "🍎 🍏 🐍",
+        "answer": "Elma",
+        "artist": "Kenan Doğulu"
+      },
+      {
+        "emojis": "📖 🤓 🎓",
+        "answer": "Okul Yılları",
+        "artist": "Fatih Erkoç"
+      },
+      {
+        "emojis": "🎂 🎈 🎁",
+        "answer": "Doğum Günü",
+        "artist": "Kutsi"
+      },
+      {
+        "emojis": "💃 🕺 🪩",
+        "answer": "Dans Et",
+        "artist": "Demet Akalın"
+      },
+      {
+        "emojis": "🔪 🩸 💔",
+        "answer": "Keser Döner",
+        "artist": "Yıldız Tilbe"
+      },
+      {
+        "emojis": "🎪 🤡 🎠",
+        "answer": "Sirk",
+        "artist": "Athena"
+      },
+      {
+        "emojis": "🦋 🐛 🌿",
+        "answer": "Kelebek",
+        "artist": "Sezen Aksu"
+      },
+      {
+        "emojis": "🐕 🐶 🦴",
+        "answer": "Köpek",
+        "artist": "Teoman"
+      }
+    ]
+  },
+  {
+    "stage": 5,
+    "questions": [
+      {
+        "emojis": "🚂 🛤️ 🎫",
+        "answer": "Tren",
+        "artist": "Mirkelam"
+      },
+      {
+        "emojis": "✈️ 🛫 🛬",
+        "answer": "Uçak",
+        "artist": "Serdar Ortaç"
+      },
+      {
+        "emojis": "🐎 🐴 🏜️",
+        "answer": "At",
+        "artist": "Mustafa Sandal"
+      },
+      {
+        "emojis": "🚴 🚲 🛣️",
+        "answer": "Bisiklet",
+        "artist": "Tarkan"
+      },
+      {
+        "emojis": "🚤 🌊 🚤",
+        "answer": "Tekne",
+        "artist": "Kenan Doğulu"
+      },
+      {
+        "emojis": "🚦 🛑 🟢",
+        "answer": "Trafik",
+        "artist": "Athena"
+      },
+      {
+        "emojis": "📸 📷 🖼️",
+        "answer": "Fotoğraf",
+        "artist": "Tarkan"
+      },
+      {
+        "emojis": "📺 🛋️ 🍿",
+        "answer": "Televizyon",
+        "artist": "Sertab Erener"
+      },
+      {
+        "emojis": "📱 ☎️ 📞",
+        "answer": "Telefon",
+        "artist": "Gökhan Özen"
+      },
+      {
+        "emojis": "💻 ⌨️ 🖱️",
+        "answer": "İnternet",
+        "artist": "İsmail YK"
+      }
+    ]
+  },
+  {
+    "stage": 6,
+    "questions": [
+      {
+        "emojis": "🍎 🥧 🧑‍🍳",
+        "answer": "Elmalı Turta",
+        "artist": "Nil Karaibrahimgil"
+      },
+      {
+        "emojis": "🍔 🍟 🥤",
+        "answer": "Hamburger",
+        "artist": "Athena"
+      },
+      {
+        "emojis": "🍉 🍈 🏖️",
+        "answer": "Karpuz",
+        "artist": "Tarkan"
+      },
+      {
+        "emojis": "🍣 🍱 🥢",
+        "answer": "Sushi",
+        "artist": "Kenan Doğulu"
+      },
+      {
+        "emojis": "🍫 🍬 🍭",
+        "answer": "Çikolata",
+        "artist": "Tarkan"
+      },
+      {
+        "emojis": "🍦 🍨 🍧",
+        "answer": "Dondurma",
+        "artist": "Serdar Ortaç"
+      },
+      {
+        "emojis": "☕ 🥐 🥖",
+        "answer": "Kahve",
+        "artist": "Sezen Aksu"
+      },
+      {
+        "emojis": "🍷 🧀 🍇",
+        "answer": "Şarap",
+        "artist": "Teoman"
+      },
+      {
+        "emojis": "🍺 🥜 🍻",
+        "answer": "Bira",
+        "artist": "Haluk Levent"
+      },
+      {
+        "emojis": "🍹 🍍 🌴",
+        "answer": "Kokteyl",
+        "artist": "Gülşen"
+      }
+    ]
+  },
+  {
+    "stage": 7,
+    "questions": [
+      {
+        "emojis": "👔 💼 🏢",
+        "answer": "Ofis",
+        "artist": "Teoman"
+      },
+      {
+        "emojis": "👗 👠 👜",
+        "answer": "Alışveriş",
+        "artist": "Demet Akalın"
+      },
+      {
+        "emojis": "👑 💍 💎",
+        "answer": "Mücevher",
+        "artist": "Sertab Erener"
+      },
+      {
+        "emojis": "🧢 👟 👕",
+        "answer": "Sokak",
+        "artist": "Ceza"
+      },
+      {
+        "emojis": "👓 🕶️ 🌞",
+        "answer": "Gözlük",
+        "artist": "Tarkan"
+      },
+      {
+        "emojis": "🧣 🧤 ❄️",
+        "answer": "Kış",
+        "artist": "Nilüfer"
+      },
+      {
+        "emojis": "👙 🩳 🏖️",
+        "answer": "Plaj",
+        "artist": "Kenan Doğulu"
+      },
+      {
+        "emojis": "🧦 🥾 🏕️",
+        "answer": "Kamp",
+        "artist": "Athena"
+      },
+      {
+        "emojis": "🎒 📚 🎓",
+        "answer": "Mezuniyet",
+        "artist": "Sıla"
+      },
+      {
+        "emojis": "💼 ✈️ 🌍",
+        "answer": "Seyahat",
+        "artist": "Mustafa Sandal"
+      }
+    ]
+  },
+  {
+    "stage": 8,
+    "questions": [
+      {
+        "emojis": "💍 💔 😭",
+        "answer": "Yüzük",
+        "artist": "Tarkan"
+      },
+      {
+        "emojis": "🎸 🎤 🤘",
+        "answer": "Rock N Roll",
+        "artist": "Teoman"
+      },
+      {
+        "emojis": "🎭 😢 😃",
+        "answer": "Maske",
+        "artist": "Athena"
+      },
+      {
+        "emojis": "🎡 🎠 🎢",
+        "answer": "Lunapark",
+        "artist": "Nil Karaibrahimgil"
+      },
+      {
+        "emojis": "💸 💰 💵",
+        "answer": "Para",
+        "artist": "Teoman"
+      },
+      {
+        "emojis": "🌙 🌌 😴",
+        "answer": "Gece",
+        "artist": "Kenan Doğulu"
+      },
+      {
+        "emojis": "🏔️ 🧗‍♂️ ❄️",
+        "answer": "Dağ",
+        "artist": "Barış Manço"
+      },
+      {
+        "emojis": "🏖️ 🍹 🌞",
+        "answer": "Yaz",
+        "artist": "Sertab Erener"
+      },
+      {
+        "emojis": "🎉 🎊 🥳",
+        "answer": "Parti",
+        "artist": "Gülşen"
+      },
+      {
+        "emojis": "💔 ✉️ 🔙",
+        "answer": "Ayrılık",
+        "artist": "Serdar Ortaç"
+      }
+    ]
+  },
+  {
+    "stage": 9,
+    "questions": [
+      {
+        "emojis": "⚽ 🥅 👟",
+        "answer": "Futbol",
+        "artist": "Athena"
+      },
+      {
+        "emojis": "🏀 ⛹️‍♂️ 🗑️",
+        "answer": "Basketbol",
+        "artist": "Kenan Doğulu"
+      },
+      {
+        "emojis": "🎾 🎾 🎾",
+        "answer": "Tenis",
+        "artist": "Tarkan"
+      },
+      {
+        "emojis": "🏐 🏖️ 🏐",
+        "answer": "Voleybol",
+        "artist": "Sezen Aksu"
+      },
+      {
+        "emojis": "🏉 🏉 🏉",
+        "answer": "Rugby",
+        "artist": "Ceza"
+      },
+      {
+        "emojis": "🎱 🎱 🎱",
+        "answer": "Bilardo",
+        "artist": "Teoman"
+      },
+      {
+        "emojis": "🏓 🏓 🏓",
+        "answer": "Masa Tenisi",
+        "artist": "Haluk Levent"
+      },
+      {
+        "emojis": "🏸 🏸 🏸",
+        "answer": "Badminton",
+        "artist": "Gülşen"
+      },
+      {
+        "emojis": "🏒 🏒 🏒",
+        "answer": "Hokey",
+        "artist": "Sıla"
+      },
+      {
+        "emojis": "🥊 🥊 🥊",
+        "answer": "Boks",
+        "artist": "Mustafa Sandal"
+      }
+    ]
+  },
+  {
+    "stage": 10,
+    "questions": [
+      {
+        "emojis": "🌌 🌠 🔭",
+        "answer": "Yıldızlar",
+        "artist": "Teoman"
+      },
+      {
+        "emojis": "🌍 🌎 🌏",
+        "answer": "Dünya",
+        "artist": "Sertab Erener"
+      },
+      {
+        "emojis": "🌑 🌒 🌓",
+        "answer": "Ay",
+        "artist": "Tarkan"
+      },
+      {
+        "emojis": "☀️ 🌞 🌅",
+        "answer": "Güneş",
+        "artist": "Sezen Aksu"
+      },
+      {
+        "emojis": "🪐 🪐 🪐",
+        "answer": "Gezegen",
+        "artist": "Kenan Doğulu"
+      },
+      {
+        "emojis": "☄️ ☄️ ☄️",
+        "answer": "Kuyruklu Yıldız",
+        "artist": "Barış Manço"
+      },
+      {
+        "emojis": "🛸 👽 🌌",
+        "answer": "Uzaylı",
+        "artist": "Athena"
+      },
+      {
+        "emojis": "🚀 👨‍🚀 🌌",
+        "answer": "Astronot",
+        "artist": "Ceza"
+      },
+      {
+        "emojis": "🛰️ 📡 🌍",
+        "answer": "Uydu",
+        "artist": "Nil Karaibrahimgil"
+      },
+      {
+        "emojis": "🌌 🌌 🌌",
+        "answer": "Galaksi",
+        "artist": "Gülşen"
+      }
+    ]
+  }
+]

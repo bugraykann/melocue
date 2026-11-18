@@ -1,0 +1,452 @@
+{
+  "@@locale": "en",
+  "appName": "SonicGuess",
+  "@appName": {
+    "description": "The title of the application"
+  },
+  "playButton": "Play",
+  "@playButton": {
+    "description": "Label for the play button"
+  },
+  "skipButton": "Skip (+{seconds}s)",
+  "@skipButton": {
+    "description": "Label for the skip button",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "loopButton": "Loop",
+  "@loopButton": {
+    "description": "Label for the loop button"
+  },
+  "guessInputPlaceholder": "Guess song or artist name...",
+  "@guessInputPlaceholder": {
+    "description": "Placeholder for the search input field"
+  },
+  "submitButton": "Submit",
+  "@submitButton": {
+    "description": "Label for the submit button"
+  },
+  "congratulations": "CONGRATULATIONS! 🎉",
+  "@congratulations": {
+    "description": "Congratulations message for winning"
+  },
+  "goodTry": "GOOD TRY! 🥲",
+  "@goodTry": {
+    "description": "Good try message for losing"
+  },
+  "completedSeries": "You completed the {rounds}-song series!",
+  "@completedSeries": {
+    "description": "Message showing how many songs were played",
+    "placeholders": {
+      "rounds": {
+        "type": "int"
+      }
+    }
+  },
+  "correctLabel": "CORRECT",
+  "@correctLabel": {
+    "description": "Label for correct answers count"
+  },
+  "successRateLabel": "SUCCESS",
+  "@successRateLabel": {
+    "description": "Label for success rate percentage"
+  },
+  "xpEarnedLabel": "XP EARNED",
+  "@xpEarnedLabel": {
+    "description": "Label for XP earned"
+  },
+  "sessionSummary": "SESSION SUMMARY",
+  "@sessionSummary": {
+    "description": "Title for the session summary section"
+  },
+  "returnToModes": "Return to Modes",
+  "@returnToModes": {
+    "description": "Label for return to modes button"
+  },
+  "playAgain": "Play Again",
+  "@playAgain": {
+    "description": "Label for play again button"
+  },
+  "correctGuess": "Correct Guess!",
+  "@correctGuess": {
+    "description": "Notification for correct guess"
+  },
+  "wrongGuess": "Wrong Guess!",
+  "@wrongGuess": {
+    "description": "Notification for wrong guess"
+  },
+  "subtitleTagline": "Guess the song in 6 attempts",
+  "@subtitleTagline": {
+    "description": "Subtitle on the home screen"
+  },
+  "dailyChallengePlayed": "You have already played today's Daily Challenge. Come back tomorrow!",
+  "@dailyChallengePlayed": {
+    "description": "Message shown when user tries to play daily challenge again"
+  },
+  "dailyChallenge": "Daily Challenge",
+  "@dailyChallenge": {
+    "description": "Label for the daily challenge button"
+  },
+  "navModes": "Modes",
+  "@navModes": {
+    "description": "Navigation label for modes tab"
+  },
+  "navRanks": "Ranks",
+  "@navRanks": {
+    "description": "Navigation label for ranks tab"
+  },
+  "navStats": "Stats",
+  "@navStats": {
+    "description": "Navigation label for stats tab"
+  },
+  "navSettings": "Settings",
+  "@navSettings": {
+    "description": "Navigation label for settings tab"
+  },
+  "modesTitle": "Modes",
+  "gameModes": "Game Modes",
+  "modesSubtitle": "Zero wait time. Pick a mode and play.",
+  "unlimitedBadge": "UNLIMITED",
+  "noviceListener": "Novice Listener",
+  "connectSpotifyFirst": "Please connect your Spotify account in settings first.",
+  "myPlaylist": "From My Playlist",
+  "endlessMode": "Endless Mode",
+  "fanTests": "Fan Tests",
+  "popular": "Popular",
+  "tenSongs": "10 SONGS",
+  "categories": "Categories",
+  "all": "All",
+  "filterAll": "All",
+  "filterTurkish": "Turkish",
+  "filterForeign": "Foreign",
+  "filterNostalgia": "Nostalgic",
+  "filterRap": "Rap",
+  "filterRock": "Rock",
+  "filterRb": "R&B",
+  "filterKpop": "K-Pop",
+  "filterIndie": "Indie",
+  "filterLatin": "Latin",
+  "difficultyEasy": "Easy",
+  "difficultyMedium": "Medium",
+  "difficultyHard": "Hard",
+  "recordScore": "Record: {score}",
+  "@recordScore": {
+    "placeholders": {
+      "score": {
+        "type": "int"
+      }
+    }
+  },
+  "badgeNew": "New",
+  "badgeGlobal": "Global",
+  "badgePopular": "Popular",
+  "badgeNostalgia": "Nostalgia",
+  "fanTestTarkanTitle": "Tarkan",
+  "fanTestTarkanDesc": "Guess the Megastar's 10 songs the fastest.",
+  "fanTestSezenTitle": "Sezen Aksu",
+  "fanTestSezenDesc": "Little Sparrow classics back to back.",
+  "fanTestMuslumTitle": "Müslüm Gürses",
+  "fanTestMuslumDesc": "The father of Arabesque, the deepest 10 songs.",
+  "fanTestManifestTitle": "Manifest",
+  "fanTestManifestDesc": "Turkish girl group hits: Snap, Amatör and more.",
+  "fanTestBlok3Title": "Blok3",
+  "fanTestBlok3Desc": "10 tracks that dominated the era. How many do you know?",
+  "fanTestLvbelTitle": "Lvbel C5",
+  "fanTestLvbelDesc": "Street music's hardest 10 tracks.",
+  "fanTestCezaTitle": "Ceza",
+  "fanTestCezaDesc": "The legend of Turkish rap. 10 classic tracks.",
+  "fanTestUziTitle": "Uzi",
+  "fanTestUziDesc": "Pioneer of the trap scene. 10 tracks await you.",
+  "genreTurkPopTitle": "Turkish Pop",
+  "genreTurkPopDesc": "Sezen Aksu, Tarkan, Gülşen, Kenan Doğulu...",
+  "genreTurkRapTitle": "Turkish Rap",
+  "genreTurkRapDesc": "Ezhel, Ceza, Sagopa Kajmer, Uzi, Motive...",
+  "genre2000PopTitle": "2000s Turkish Pop",
+  "genre2000PopDesc": "Hepsi, Hande Yener, Demet Akalın, Serdar Ortaç",
+  "genreGlobalPopTitle": "Global Pop",
+  "genreGlobalPopDesc": "The Weeknd, Taylor Swift, Dua Lipa, Ed Sheeran",
+  "genreRockTitle": "Rock Classics",
+  "genreRockDesc": "Queen, AC/DC, Nirvana, The Rolling Stones",
+  "genreRbTitle": "R&B / Soul",
+  "genreRbDesc": "Bruno Mars, The Weeknd, Alicia Keys, Usher",
+  "genreKpopTitle": "K-Pop",
+  "genreKpopDesc": "BTS, BLACKPINK, EXO, TWICE",
+  "genreIndieTitle": "Indie & Alternative",
+  "genreIndieDesc": "Arctic Monkeys, Tame Impala, The Strokes",
+  "genreLatinTitle": "Latin Hits",
+  "genreLatinDesc": "Bad Bunny, J Balvin, Shakira, Rosalía",
+  "leaderboardsTitle": "Leaderboards",
+  "leaderboardsSubtitle": "Compete daily, earn bragging rights & badges",
+  "noPlayersYet": "No players yet.",
+  "failedToLoadRanks": "Failed to load ranks:\n{error}",
+  "@failedToLoadRanks": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "soundDeity": "SOUND DEITY",
+  "points": "pts",
+  "average": "avg",
+  "streak": "Streak",
+  "youRankText": "You ({name})",
+  "@youRankText": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "vipBadge": "VIP",
+  "topFivePercent": "Top 5%",
+  "compareBtn": "Compare",
+  "rankAndPlayer": "RANK & PLAYER",
+  "pointsAndStreak": "POINTS / STREAK",
+  "avgAndDailyText": "Avg {avg} • Daily #184: 1st Guess",
+  "@avgAndDailyText": {
+    "placeholders": {
+      "avg": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsTitle": "Settings",
+  "resetAllDataTitle": "Reset All Data",
+  "resetAllDataDesc": "Are you sure you want to reset all your stats and progress? This cannot be undone.",
+  "cancel": "Cancel",
+  "reset": "Reset",
+  "dataResetSuccess": "All data has been reset.",
+  "preferences": "Preferences",
+  "language": "Language",
+  "turkish": "English",
+  "notifications": "Notifications",
+  "haptics": "Haptics",
+  "dataAndPrivacy": "Data & Privacy",
+  "resetAllDataBtn": "Reset All Data",
+  "connectedAccounts": "Connected Accounts",
+  "connected": "Connected",
+  "tapToConnect": "Tap to connect",
+  "logout": "Logout",
+  "spotifyConnected": "Spotify connected successfully!",
+  "spotifyConnectionFailed": "Connection failed.",
+  "about": "About",
+  "version": "Version",
+  "privacyPolicy": "Privacy Policy",
+  "statsTitle": "Statistics",
+  "player": "Player",
+  "novice": "Novice",
+  "risingStar": "Rising Star",
+  "soundMaestro": "Sound Maestro",
+  "musicDeity": "Music Deity",
+  "lvlText": "LVL {level}",
+  "@lvlText": {
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "levelProgressText": "Level {current} → Level {next}",
+  "@levelProgressText": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "next": {
+        "type": "int"
+      }
+    }
+  },
+  "xpProgressText": "{current} / {next} XP",
+  "@xpProgressText": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "next": {
+        "type": "int"
+      }
+    }
+  },
+  "xpToNextLevel": "{xp} XP to Level {level}",
+  "@xpToNextLevel": {
+    "placeholders": {
+      "xp": {
+        "type": "int"
+      },
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "totalXp": "Total: {xp} XP",
+  "@totalXp": {
+    "placeholders": {
+      "xp": {
+        "type": "int"
+      }
+    }
+  },
+  "editProfile": "Edit Profile",
+  "challenges": "Challenges",
+  "totalPlayed": "Total Played",
+  "winRate": "Win Rate",
+  "solvedCount": "{count} Solved",
+  "@solvedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "currentStreakTitle": "Current Streak",
+  "days": "Days",
+  "activeDays": "Active Days",
+  "bestStreakTitle": "Best Streak",
+  "allTimeHigh": "All Time High",
+  "guessDistribution": "Guess Distribution",
+  "guessDistributionDesc": "Frequency by snippet duration",
+  "fail": "Fail",
+  "peak": "(Peak)",
+  "genreDna": "Genre DNA",
+  "genreDnaDesc": "Ear calibration by musical territory",
+  "diamond": "Diamond",
+  "gold": "Gold",
+  "silver": "Silver",
+  "bronze": "Bronze",
+  "lastSolvedVictory": "Last Solved Victory",
+  "recent": "Recent",
+  "editProfileDialogTitle": "Edit Profile",
+  "editProfileDialogDesc": "Choose your display name for the leaderboards.",
+  "newNameHint": "Your new name...",
+  "nameUpdatedSuccess": "Your name has been updated successfully!",
+  "save": "Save",
+  "category": "Category",
+  "fanTestTitle": "Fan Test: {name}",
+  "@fanTestTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "dailyBadgeText": "DAILY #{number}",
+  "@dailyBadgeText": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "snippetDuration": "{duration} snippet",
+  "@snippetDuration": {
+    "placeholders": {
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "guessCountText": "Guess {current}/{max}",
+  "@guessCountText": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "correctlyGuessed": "Correctly Guessed",
+  "skipped": "Skipped",
+  "wronglyGuessed": "Wrongly Guessed",
+  "skipAction": "Skip",
+  "genreHintUnlockedAt": "Genre hint unlocked at 4.0s",
+  "howToPlay": "How to play ",
+  "snippetProgression": "SNIPPET PROGRESSION",
+  "stageProgression": "Stage {current} of {total}",
+  "@stageProgression": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "statisticsUpper": "STATISTICS",
+  "playedLabel": "Played",
+  "winPercentageLabel": "Win %",
+  "currentStreakLabel": "Current\nStreak",
+  "maxStreakLabel": "Max\nStreak",
+  "spotifyPlaylistsTitle": "Your Spotify Playlists",
+  "noPlaylistsFound": "No playlists found.",
+  "unknownPlaylist": "Unknown Playlist",
+  "songCountText": "{count} Songs",
+  "@songCountText": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "songsLabel": "Songs",
+  "emojiModeTitle": "Emoji Mode",
+  "stageUnlockDialogTitle": "Unlock Stage",
+  "stageUnlockDialogDesc": "You need 200 MeloCoins to unlock Stage {stage}.",
+  "@stageUnlockDialogDesc": {
+    "placeholders": {
+      "stage": {
+        "type": "int"
+      }
+    }
+  },
+  "payCoinButton": "Pay 200 Coins",
+  "notEnoughCoins": "Not enough coins!",
+  "emojiStageCompleted": "Congratulations! You completed the stage! 🏆",
+  "emojiAllStagesCompleted": "YOU BEAT THE GAME! BIG REWARD COMING SOON! 👑",
+  "stageAndQuestionProgress": "Stage {stage} • Question {question}/10",
+  "@stageAndQuestionProgress": {
+    "placeholders": {
+      "stage": {
+        "type": "int"
+      },
+      "question": {
+        "type": "int"
+      }
+    }
+  },
+  "wrongGuessLabel": "Wrong Guess: {guess}",
+  "@wrongGuessLabel": {
+    "placeholders": {
+      "guess": {
+        "type": "String"
+      }
+    }
+  },
+  "artistLabel": "Artist: {artist}",
+  "@artistLabel": {
+    "placeholders": {
+      "artist": {
+        "type": "String"
+      }
+    }
+  },
+  "jokersTitle": "Jokers",
+  "revealLetter": "Reveal Letter",
+  "revealArtist": "Reveal Artist",
+  "giveUpAndSkip": "Give Up & Skip",
+  "stageTitle": "Stage {stage}",
+  "@stageTitle": {
+    "placeholders": {
+      "stage": {
+        "type": "int"
+      }
+    }
+  }
+}
